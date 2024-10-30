@@ -1,0 +1,49 @@
+.G {
+
+color: green;
+font-size: larger;
+font-family: fantasy;
+
+
+
+}
+
+.O {
+
+color: rgba(0, 255, 0, 0.644);
+font-size: larger;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+
+}
+
+.A {
+
+color: rgb(179, 255, 179);
+font-size: larger;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+
+}
+
+.B {
+
+color: rgb(132, 0, 255);
+font-size: larger;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+.E {
+
+color: rgb(255, 0, 0);
+font-size: larger;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+}

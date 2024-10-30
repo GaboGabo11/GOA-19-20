@@ -1,0 +1,74 @@
+#p1 {
+
+text-decoration: underline;
+color: red;
+
+
+}
+
+
+#p2 {
+
+text-decoration: overline;
+color:green;
+
+
+}
+
+
+
+#p3 {
+
+    text-decoration:line-through;
+color: yellow;
+
+
+
+}
+
+
+
+#p4 {
+
+    text-decoration: underline overline;
+color: aqua;
+
+
+
+
+
+
+}
+
+
+#p5{
+text-decoration: overline line-through;
+color: blue;
+
+
+
+}
+
+
+
+#p6 {
+color: palegreen;
+text-decoration: underline line-through;
+
+
+
+
+
+}
+
+
+
+
+#p7 {
+color: purple;
+text-decoration: line-through underline overline;
+
+
+
+
+}

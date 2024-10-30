@@ -1,0 +1,110 @@
+body,html {
+
+background-color: #00f10080;
+font-family: sans-serif;
+
+}
+
+
+
+.nav ul {
+    background-color: #ffffff;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+
+
+.nav ul {
+    
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #ffffff;
+  }
+  
+  .nav li {
+    margin-right: 2px; 
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: black;
+    transition: 3.0ms;
+  
+  }
+    
+
+
+
+
+
+.homepage {
+
+height: 10cm;
+width: 100%;
+background-color: rgb(175, 175, 175);
+padding-bottom: 100px;
+}
+
+
+
+.contacts {
+
+width: 100%;
+height: 10cm;
+background-color: black;
+color: #ffffff;
+display: flex;
+justify-content: center;
+
+
+}
+
+
+
+
+
+
+
+.contacts1 {
+width:10%;
+height: 200px;
+background-color: gray;
+display: flex;
+justify-content: space-evenly;
+
+}
+.contacts2 {
+    width:10%;
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    }
+.contacts3 {
+        width:10%;
+        height: 200px;
+        background-color: rgb(4, 247, 255);
+        display: flex;
+        align-items: center;
+        
+        }
+
+
+
+
+
+.contacts1 a {
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration: none;
+
+
+}

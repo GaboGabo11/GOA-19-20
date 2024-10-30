@@ -1,0 +1,38 @@
+body {
+
+  background-color: green;
+  
+}
+
+
+
+.title {
+
+  font-size: 50px;
+  color:  red;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+
+
+
+
+.about {
+
+    font-size: 30px;
+    color:  rgb(0, 255, 42);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+
+}
+
+
+
+.btn {
+
+    width: 10px;
+
+   
+   }

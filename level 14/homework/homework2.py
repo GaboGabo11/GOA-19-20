@@ -1,0 +1,8 @@
+math = int(input("Enter Maths Score:"))
+geo = int(input("Enter Georgian Score:"))
+rus = int(input("Enter Russian Score:"))
+en = int(input("Enter English Score:"))
+nature = int(input("Enter Nature Score:"))
+history = int(input("Enter History Score:"))
+sport = int(input("Enter sport Score:"))
+print(math + geo + rus + en + nature + history + sport / 5)

@@ -1,0 +1,14 @@
+.div1 {
+
+font-size: 500px;
+}
+
+
+.divchild1{
+    width: 25%;
+}
+
+
+.divchild1 p{
+    font-size: 50%;
+}
