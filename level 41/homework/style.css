@@ -1,0 +1,25 @@
+.d1{
+    color: aqua;
+}
+
+.d1:link{
+    color: blue;
+}
+
+.d1:visited{
+    color: red;
+}
+.d1:hover{
+    width: 100px;
+    height: 50px;
+    transition: 1ms;
+}
+.d1:active{
+    background-color: black;
+}
+.d2:hover{
+    color: gray;
+}
+.d2:hover{
+    text-decoration: underline;
+}

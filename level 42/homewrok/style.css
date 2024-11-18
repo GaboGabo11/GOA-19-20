@@ -1,0 +1,22 @@
+table  {
+    border: 3px solid;
+    border-radius: 3px;
+    padding: 50px;/*padding- არის ბოქსის გადიდება ანუ სივრცის მიცემა ამას იყენებენ ბევრ property-ში */
+    border-style: dotted;
+}
+
+
+th, td{
+ border: 3px solid black;
+ border-radius: 5px;
+ border-style: dashed;
+}
+
+tr:nth-child(odd){
+    background-color: aqua;
+}
+
+tr:hover{
+    background-color: blue;
+    transition: 1s;
+}
