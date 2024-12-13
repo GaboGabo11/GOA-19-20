@@ -1,0 +1,47 @@
+body {
+    background-image: url('https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/452113171_476523915130909_6975325151100170335_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=YUG0QuyFnWkQ7kNvgEOOQX_&_nc_zt=23&_nc_ht=scontent.ftbs6-2.fna&_nc_gid=AJrQns6Kh-VHfTL9YY8mu3T&oh=00_AYCbyT9DF35qEqkyyWbNYAKGaXnOsgXP0VErCgxgeXXxTg&oe=67622022');
+    background-repeat: no-repeat;
+    background-position: 500px;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+}
+.ht1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.left {
+    background-color: black;
+    width: 500px;
+    height: 919px;
+    color: white;
+    
+    
+}
+
+.imgleft {
+    border-radius: 100%;
+    scale: 0.8;
+    margin-left: 100px;
+}
+.left a {
+    
+    
+    color: white;
+    text-decoration: none;
+    transition: 0.3s ease;
+    margin-left: 100px;
+}
+
+.left a:hover {
+    color: wheat;
+}
+
+p {
+    margin-left: 100px;
+}
+
+

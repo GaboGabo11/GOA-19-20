@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.Lemon {
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    margin-left: 850px;
+    margin-top: 400px;
+    border-radius: 80px  300px 70px;
+}

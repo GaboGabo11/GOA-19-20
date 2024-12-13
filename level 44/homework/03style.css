@@ -1,0 +1,45 @@
+.D1 {
+list-style-type: armenian; 
+}
+.D2 {
+list-style-type: georgian;
+}
+.D3 {
+list-style-type: decimal;
+}
+.D4 {
+list-style-type: lower-greek;
+}
+.D5 {
+list-style-type: upper-roman;
+}
+.D6 {
+list-style-type: square;
+}
+.D7 {
+list-style-type: disc;
+}
+.D8 {
+list-style-type: circle;
+}
+.D9 {
+list-style-type: upper-alpha;
+}
+.D10 {
+list-style-type:none ;
+}
+.D11 {
+list-style-type:initial ;
+}
+.D12 {
+list-style-type:upper-latin ;
+}
+.D13 {
+list-style-type:unset;
+}
+.D14 {
+list-style-type:decimal-leading-zero;
+}
+.D15 {
+list-style-type:lower-roman ;
+}

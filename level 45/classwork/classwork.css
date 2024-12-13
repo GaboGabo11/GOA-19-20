@@ -1,0 +1,28 @@
+input[type=text]{
+    border: 5px solid green;
+    border-radius: 3px;
+    outline: none;
+    color: blue;
+    
+}
+
+input[type=password]{
+    border: 2px dashed blue;
+    border-radius: 2px;
+    color: red;
+}
+
+
+input[type=email]{
+    outline: none;
+    border: none;
+    
+}
+
+form{
+    border: 1px solid black;
+}
+
+label{
+    font-family: 'Courier New', Courier, monospace;
+}

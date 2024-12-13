@@ -1,0 +1,15 @@
+input{
+    border: 1px dotted green;
+    border-radius: 3px;
+    outline:  none;
+    color: blue;
+}
+
+label{ 
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input[type='text']{
+    font-weight: 700;
+}
